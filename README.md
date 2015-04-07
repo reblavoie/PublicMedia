@@ -402,13 +402,15 @@ Social:
 [Rebecca Lavoie](http://nhpr.org/people/rebecca-lavoie), Digital Director/Social Worker
 [Facebook](https://www.facebook.com/rebeccalavoie),
 [Twitter](https://twitter.com/reblavoie),
+[Instagram](https://instagram.com/reblavoie),
+[reddit](http://www.reddit.com/user/rebeccalavoie)
 [reddit](http://www.reddit.com/user/wordofmouthradio)
 
 ATC/ME Hosts:
 
 [Rick Ganley](https://twitter.com/rickganley), Morning Edition Host
 
-[Brady Carlson](https://twitter.com/bradycarlson), All Things Considered Host 
+[Brady Carlson](https://twitter.com/bradycarlson), Former ATC Host, now Weekend Host/Reporter
 [reddit](http://www.reddit.com/user/bradycarlson)
 
 NHPR News peeps:
@@ -428,6 +430,8 @@ NHPR News peeps:
 [Michael Brindley](https://twitter.com/mbrindley_nhpr), Newscast Producer, Reporter
 
 [Brian Wallstin](https://twitter.com/wallstin), Digital Journalist (politics, investigative)
+
+[Paige Sutherland](https://twitter.com/wallstin), Reporter (gen. assignment/politics)
 
 [Sara Plourde](https://twitter.com/rudeparasol), Digital Producer/Infographics
 
